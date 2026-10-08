@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Nirasha Ranasinghe
 
-<!--
-**Nirasha-ran/Nirasha-ran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Business Analyst Intern at MobiOs (Pvt) Ltd and an undergraduate
+studying BSc (Hons) in Management and Information Technology.
 
-Here are some ideas to get you started:
+I'm developing my business analysis skills while learning software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently learning
+- Requirements analysis, user stories, and acceptance criteria
+- Process modelling and software testing
+- Java and SQL
+- Git and GitHub
+
+## My goals
+- Build practical applications using Java and Spring Boot
+- Become a technically capable Business Analyst
+- Develop the skills to pursue software development opportunities
